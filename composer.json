@@ -1,0 +1,13 @@
+{
+    "name": "rekky/mon-theme",
+    "require-dev": {
+        "symfony/var-dumper": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "rekkylaws",
+            "email": "donatienhochart2@gmail.com"
+        }
+    ],
+    "require": {}
+}
